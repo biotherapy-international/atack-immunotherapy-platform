@@ -3,6 +3,7 @@
 Biotherapy International  
 Official website: https://ibiotherapy.com  
 Clinical description of the ATACK method: https://ibiotherapy.com/all-immunotherapy/atack/
+
 Medical Director: Professor Shimon Slavin
 
 ---
